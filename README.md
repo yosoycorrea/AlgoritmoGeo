@@ -13,7 +13,7 @@ No es solo código ni solo narrativa: es un puente entre datos y memoria, entre 
 - Intersección: todo suceso se entiende en el cruce de lo físico, lo humano y lo simbólico.  
 - Transparencia: cada diagnóstico debe ser claro, replicable y abierto.  
 - Memoria: los territorios guardan huellas que deben ser reconocidas y narradas.  
-- Ética: ningún cálculo es neutro; toda interpretación debe cuidar la dignidad de las comunidades.  
+-
 - Replicabilidad: el algoritmo es libre, abierto y adaptable a cualquier disciplina.  
 
 **Propósito**  
