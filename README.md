@@ -72,4 +72,15 @@ Ejemplo de ejecución del algoritmo: "El Cairo, Egipto"
 2. Urdimbre: Hilo de población masivo pegado estrictamente al hilo azul.
 3. Intersección: La supervivencia humana depende 100% de la hidratación del hilo azul.
 4. Nudo: Tensión con otros países río arriba por el control del agua.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+   ...
+
+Add Apache 2.0 license text with author attribution
